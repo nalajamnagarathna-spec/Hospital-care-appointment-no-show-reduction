@@ -1,0 +1,31 @@
+# AS-IS Process – Patient Appointment Management
+
+Patient wants to book appointment
+↓
+Patient contacts hospital / appointment desk
+↓
+Receptionist checks doctor availability
+↓
+Available appointment slot selected
+↓
+Appointment entered into hospital system
+↓
+Patient receives appointment details
+↓
+Patient waits for appointment date
+↓
+**Does the patient attend?**
+
+**YES** → Doctor consultation → Appointment completed
+
+**NO** → No-show recorded → Appointment slot remains unused
+
+## Current Process Challenges
+
+* Patients may forget appointments
+* Limited appointment reminders
+* No simple appointment confirmation
+* Rescheduling may require staff assistance
+* Cancellation reasons may not be consistently captured
+* Manual staff follow-up
+* Limited visibility into no-show trends
