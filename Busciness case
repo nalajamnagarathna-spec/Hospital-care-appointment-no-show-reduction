@@ -1,0 +1,121 @@
+# Business Case – Patient Appointment No-Show Reduction
+
+## 1. Executive Summary
+
+The hospital manages a large number of outpatient appointments. A percentage of patients do not attend their scheduled appointments without cancelling or rescheduling in advance.
+
+This results in unused appointment slots, reduced doctor utilization, additional administrative work, and potential revenue loss.
+
+This project proposes a solution to improve appointment attendance through automated reminders, appointment confirmation, easy rescheduling, cancellation tracking, and management reporting.
+
+## 2. Business Problem
+
+The current appointment management process has several challenges:
+
+* Patients may forget their appointments.
+* Patients may not receive timely reminders.
+* Rescheduling an appointment may require manual staff assistance.
+* Cancellation reasons are not consistently captured.
+* Staff may need to manually follow up with patients.
+* Management has limited visibility into no-show patterns.
+
+## 3. Business Objective
+
+The primary objective is to reduce patient appointment no-shows and improve utilization of available appointment slots.
+
+### Target
+
+The proposed solution aims to achieve a **20% reduction in the no-show rate within six months of implementation**.
+
+> Note: This is a proposed project target for portfolio purposes, not a claim about an actual hospital implementation.
+
+## 4. Proposed Solution
+
+The proposed solution will provide:
+
+1. Automated appointment reminders.
+2. Appointment confirmation functionality.
+3. Appointment rescheduling functionality.
+4. Appointment cancellation functionality.
+5. Cancellation reason tracking.
+6. Staff visibility into unconfirmed appointments.
+7. Management reporting and analytics.
+
+## 5. Current Process Challenges
+
+| Area         | Current Challenge                        | Business Impact                                 |
+| ------------ | ---------------------------------------- | ----------------------------------------------- |
+| Reminders    | Limited proactive reminders              | Patients may forget appointments                |
+| Confirmation | No simple confirmation process           | Staff cannot easily identify confirmed patients |
+| Rescheduling | Manual process                           | Additional staff workload                       |
+| Cancellation | Reasons may not be consistently captured | Limited analysis                                |
+| Reporting    | Limited appointment analytics            | Difficult to identify trends                    |
+| Follow-up    | Manual patient contact                   | Increased operational effort                    |
+
+## 6. Stakeholders
+
+| Stakeholder            | Interest                                     |
+| ---------------------- | -------------------------------------------- |
+| Patients               | Easy appointment management                  |
+| Doctors                | Better utilization of appointment slots      |
+| Receptionists          | Reduced manual appointment work              |
+| Appointment Schedulers | Efficient slot management                    |
+| Hospital Management    | Improved operational performance             |
+| IT Team                | Implement the proposed solution              |
+| Business Analyst       | Analyze requirements and define the solution |
+| Product Owner          | Prioritize requirements                      |
+
+## 7. Scope
+
+### In Scope
+
+* Appointment reminders
+* Appointment confirmation
+* Appointment cancellation
+* Appointment rescheduling
+* Cancellation reason tracking
+* Appointment status tracking
+* Staff dashboard
+* Management reporting
+
+### Out of Scope
+
+* Billing and payment processing
+* Clinical diagnosis
+* Prescription management
+* Insurance claims
+* Full EHR replacement
+* Telemedicine functionality
+
+## 8. Key Performance Indicators
+
+The following KPIs will be used to measure the success of the solution:
+
+* No-show rate
+* Confirmation rate
+* Cancellation rate
+* Rescheduling rate
+* Reminder delivery rate
+* Appointment utilization
+* Monthly no-show trend
+
+## 9. Expected Benefits
+
+### Operational Benefits
+
+* Reduced manual follow-up
+* Better appointment slot utilization
+* Improved scheduling efficiency
+* Better visibility into appointment status
+
+### Patient Benefits
+
+* Timely appointment reminders
+* Easier confirmation
+* Easier rescheduling
+* Convenient cancellation process
+
+### Management Benefits
+
+* Better visibility into no-show trends
+* Data-
