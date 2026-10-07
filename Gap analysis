@@ -1,0 +1,28 @@
+# Gap Analysis – Patient Appointment Management
+
+| Current State                                                | Gap                         | Proposed State                                   |
+| ------------------------------------------------------------ | --------------------------- | ------------------------------------------------ |
+| Patients receive basic appointment details                   | No proactive reminder       | Automated appointment reminders                  |
+| Patients cannot easily confirm attendance                    | No confirmation mechanism   | Appointment confirmation                         |
+| Rescheduling may require staff assistance                    | Manual rescheduling process | Self-service rescheduling                        |
+| Cancellation reasons are not consistently captured           | Limited cancellation data   | Standardized cancellation reasons                |
+| Staff manually follow up with patients                       | High manual effort          | System identifies unconfirmed appointments       |
+| Limited visibility into no-shows                             | No centralized reporting    | Appointment performance dashboard                |
+| No-show information is mainly reviewed after the appointment | Limited proactive action    | Early identification of unconfirmed appointments |
+
+## Key Gaps Identified
+
+1. Lack of automated reminders
+2. Lack of appointment confirmation
+3. Manual rescheduling process
+4. Inconsistent cancellation tracking
+5. Manual staff follow-up
+6. Limited reporting and analytics
+
+## Business Impact
+
+These gaps can contribute to missed appointments, unused appointment slots, increased administrative workload, and reduced visibility into appointment performance.
+
+## Recommended Improvement
+
+Implement an appointment management solution with automated reminders, confirmation, rescheduling, cancellation tracking, and management reporting.
